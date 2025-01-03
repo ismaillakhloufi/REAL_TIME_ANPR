@@ -2,7 +2,9 @@
 
 ## 📖 Overview
 
-This project focuses on developing a computer vision system to detect and recognize Moroccan license plates using YOLO and Optical Character Recognition (OCR). By leveraging a dataset of Moroccan vehicle plates, the system aims to automate license plate recognition, overcoming challenges specific to Arabic characters and plate designs. 
+This project focuses on developing a computer vision system to detect and recognize Moroccan license plates using YOLO and Optical Character Recognition (OCR). By leveraging a dataset of Moroccan vehicle plates, the system aims to automate license plate recognition, overcoming challenges specific to Arabic characters and plate designs.
+## Application Screenshot
+![Application Screenshot](img_screen.PNG)
 
 **👥 Team Members:**
 - [LAKHLOUFI ISMAIL](https://github.com/ismaillakhloufi) :
