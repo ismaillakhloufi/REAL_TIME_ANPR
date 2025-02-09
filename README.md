@@ -47,6 +47,10 @@ We utilized a publicly available dataset of Moroccan vehicle plates containing:
 - 📚 **Libraries**: NumPy, Pandas, Matplotlib
 - 🔧 **Others**: Data augmentation with Python scripts
 
+## Présentation
+This is our [presentation PDF](./presentation.pdf) for more details.
+
+
 ## 🖥️ How to start
  **Clone the Repository** :
    ```bash
