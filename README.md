@@ -48,7 +48,7 @@ We utilized a publicly available dataset of Moroccan vehicle plates containing:
 - 🔧 **Others**: Data augmentation with Python scripts
 
 ## Présentation
-This is our [presentation PDF](./presentation.pdf) for more details.
+This is our [presentation PDF](https://www.canva.com/design/DAGeLzc6G8w/xMNAD96WYagAGu5DdXI1eA/edit?utm_content=DAGeLzc6G8w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) for more details.
 
 
 ## 🖥️ How to start
