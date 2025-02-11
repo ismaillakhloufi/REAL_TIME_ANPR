@@ -1,4 +1,4 @@
-# 🚗 Moroccan License Plate Detection and Recognition
+# 🚗 Moroccan License Plate Detection and Recognitio
 
 ## 📖 Overview
 
