@@ -1,0 +1,25 @@
+path: /content/drive/MyDrive/OCR FINAL/DATA
+train: /content/drive/MyDrive/OCR FINAL/DATA/images/train
+val: /content/drive/MyDrive/OCR FINAL/DATA/images/val
+test: /content/drive/MyDrive/OCR FINAL/DATA/images/test  # Optionnel
+
+nc: 17  # Nombre de classes
+
+names:
+  0: '0'
+  1: '1'
+  2: '2'
+  3: '3'
+  4: '4'
+  5: '5'
+  6: '6'
+  7: '7'
+  8: '8'
+  9: '9'
+  10: 'أ'
+  11: 'ب'
+  12: 'و'
+  13: 'د'
+  14: 'ه'
+  15: 'w'
+  16: 'ش'
