@@ -33,17 +33,14 @@ We utilized a publicly available dataset of Moroccan vehicle plates containing:
 ## 🛠️ Methodology
 1. **Plate Detection**:
    -  Used **YOLOv8** for efficient and accurate plate localization.
-   -  Achieved **x% accuracy** on the test set.
+   -  Achieved **98.20% accuracy** on the test set.
 2. **Character Recognition**:
-   - 🔍 Explored various models:
-     -  Histogram Projection + k-NN
-     -  Histogram Projection + CNN (MobileNetV2)
-     -  **YOLOv8** for simultaneous character detection and classification.
-   -  YOLOv8 demonstrated the best performance with **x% accuracy** on the test set.
+  -  **YOLOv8** for simultaneous character detection and classification.
+  -  Achieved **0.54% accuracy** on the test set.
 
 ## 💻 Tools and Technologies
 - 💡 **Programming Languages**: Python
-- ⚙️ **Frameworks**: YOLOv8, TensorFlow, OpenCV
+- ⚙️ **Frameworks**: YOLOv8, OpenCV
 - 📚 **Libraries**: NumPy, Pandas, Matplotlib
 - 🔧 **Others**: Data augmentation with Python scripts
 
