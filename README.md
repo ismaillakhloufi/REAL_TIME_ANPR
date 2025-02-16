@@ -24,9 +24,6 @@ We utilized a publicly available dataset of Moroccan vehicle plates containing:
 
 ### 🚗 Moroccan License Plate Structure
 ![Moroccan License Plate Structure](Moroccan-license-plate-structure.jpg)
-<video width="600" controls>
-  <source src="C:/Users/MOHAMED/Downloads/0216/0216.mp4" type="video/mp4">
-</video>
 
 
 ### 🔄 Data Preprocessing
