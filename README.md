@@ -55,6 +55,30 @@ This is our [presentation PDF](https://www.canva.com/design/DAGeLzc6G8w/xMNAD96W
   git clone https://github.com/your-repo/moroccan-license-plate-detection.git
 cd moroccan-license-plate-detection
    ```
+1. Create a virtual environment (optional but recommended):
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+2. Clone this repository to your local machine:
+   ```bash
+   git clone https://github.com/your-repo/moroccan-license-plate-detection.git
+   ```
+3. Navigate to the project directory:
+```bash
+  cd ANPR_Yolov8
+   ```
+
+```
+4. Install the required dependencies:
+```bash
+pip install -r requirements.txt
+```
+## Usage
+
+run streamlit app:
+```bash
+streamlit run 1_👋_main.py
+
 
 ## 📜 Licence
 This project is licensed under the [MIT License](LICENSE).  
